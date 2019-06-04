@@ -1,0 +1,61 @@
+Applications of Python - 2 Assignments
+
+Data Pre-processing
+Data Manipulation
+Data Visualization
+GUI Programming
+Computer Vision
+
+
+Predictive Analytics - 2 Assignments
+
+Statistical Foundation
+Probability
+Inferential Statistics
+Generalized Linear Models
+Advanced Regression
+
+
+Machine Learning - 4 Assignments
+
+Supervised Learning
+Dimensionality Reduction
+Unsupervised Learning
+Association Rules Mining and Recommendation Systems
+Time Series Analysis
+Model Selection and Boosting
+
+
+Graphical Models - 2 Assignments
+
+Bayesian Network
+Markov's Network
+Inference
+Model Learning
+
+
+Reinforcement Learning - 2 Assignments
+
+Bandit Algorithms and Markov Decision Process
+Dynamic Programming & Temporal Difference Methods
+Deep Q Learning
+
+
+Natural Language Processing - 2 Assignments
+
+Text Mining and NLP
+Extracting, Cleaning and Pre-processing Text
+Analyzing Sentence Structure
+Text Classification
+
+
+AI & Deep Learning - 4 Assignments
+
+Understanding Neural Networks with TensorFlow
+Deep dive into Neural Networks with TensorFlow
+Master Deep Networks
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+Restricted Boltzman Machine (RBM) and Autoencoders
+Keras API
+TFLearn API
